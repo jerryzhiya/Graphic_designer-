@@ -13,7 +13,7 @@ module.exports = (env, argv) => {
   output: {
     filename: 'js/[name].[contenthash].js',
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '/'
+    publicPath: '/Graphic_designer-/'
   },
   module: {
     rules: [
