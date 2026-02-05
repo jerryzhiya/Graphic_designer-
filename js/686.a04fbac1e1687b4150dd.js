@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraphic_designer_=self.webpackChunkgraphic_designer_||[]).push([[686],{686(e,s,p){e.exports=p.p+"assets/88c9e8f91511e049d0e6.jpeg"}}]);
